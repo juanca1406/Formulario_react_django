@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #dbd8d8;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar-nav {
+  list-style: none;
+  display: flex;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
